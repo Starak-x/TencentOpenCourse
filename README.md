@@ -1,5 +1,6 @@
 ### TencentOpenCourse
 #assignement1
+
 设备win11，Android10
 我配置的UE5.4.4环境，前期各种版本不匹配报错，后来看官方文档成功了
 ![image](https://github.com/user-attachments/assets/f6d25742-837d-4c12-abcd-7dc563c85a41)
@@ -17,3 +18,4 @@ NDK：![image](https://github.com/user-attachments/assets/05dc5599-8ce9-4f4e-a02
 ![76C6(58~N@OQXR~Y AG19BR_tmb](https://github.com/user-attachments/assets/5c1dc281-7f35-4bfe-a6b7-a244dfa2fcf6)
 
 此外在看games101补充图形学知识,并完成games101作业1和2
+https://www.bilibili.com/video/BV1KkSTYwE4K/?spm_id_from=333.999.0.0&vd_source=31b41670648836b44d9c6ea0857a9d5a
